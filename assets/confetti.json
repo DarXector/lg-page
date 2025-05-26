@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "confetti_01.png",
+	"frame": {"x":1,"y":221,"w":85,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":115},
+	"sourceSize": {"w":85,"h":115}
+},
+{
+	"filename": "confetti_02.png",
+	"frame": {"x":1,"y":48,"w":100,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":34},
+	"sourceSize": {"w":100,"h":34}
+},
+{
+	"filename": "confetti_03.png",
+	"frame": {"x":1,"y":1,"w":101,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":101,"h":45},
+	"sourceSize": {"w":101,"h":45}
+},
+{
+	"filename": "confetti_04.png",
+	"frame": {"x":1,"y":129,"w":88,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":90},
+	"sourceSize": {"w":88,"h":90}
+},
+{
+	"filename": "confetti_05.png",
+	"frame": {"x":1,"y":84,"w":92,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":43},
+	"sourceSize": {"w":92,"h":43}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "confetti.png",
+	"format": "RGBA8888",
+	"size": {"w":103,"h":337},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b4661bcd3f1125e400e420613490800d:ff72288f5e6b36ae3c67b1c506f033f7:ccbf4012fa8c0448f9f3ca62cd41a029$"
+}
+}
