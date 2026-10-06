@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791295274|14344917059';
+const CACHE_VERSION = '1791296661|15732428246';
 /** @type {string} */
 const CACHE_PREFIX = 'Школица-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
