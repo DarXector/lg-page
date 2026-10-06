@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791294464|13535138455';
+const CACHE_VERSION = '1791295274|14344917059';
 /** @type {string} */
-const CACHE_PREFIX = 'Letters Game-sw-cache-';
+const CACHE_PREFIX = 'Школица-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
